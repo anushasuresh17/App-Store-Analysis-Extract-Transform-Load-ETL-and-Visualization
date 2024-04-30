@@ -47,9 +47,3 @@ The following analyses were performed using SQL queries:
 ### Requirements
 Excel, MySQL, Tableau
 
-### License
-- [Specify the license under which the project is released, e.g., MIT License].
-
----
-
-Feel free to customize and expand the README file as needed for your project.
