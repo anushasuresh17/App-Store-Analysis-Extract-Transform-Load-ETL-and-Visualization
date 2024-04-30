@@ -1,7 +1,7 @@
 App Store Analysis: Extract, Transform, Load (ETL) and Visualization
 
 ### Overview
-This project involves data extraction, transformation, loading (ETL), and analysis of a dataset related to [describe dataset]. The dataset comprises [brief description of dataset contents]. The analysis is performed using SQL queries, and the results are visualized using Tableau.
+This project involves data extraction, transformation, loading (ETL), and analysis of a dataset related to Shopify app store apps (created by developers) and reviews (published by shops). The dataset is regularly updated but to get the latest data the Shopify App store scraper can be used directly. The analysis is performed using SQL queries, and the results are visualized using Tableau.
 
 ### Dataset
 The dataset used in this project is "https://www.kaggle.com/datasets/usernam3/shopify-app-store". It consists of several tables, including:
